@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import { CiRedo, CiSettings, CiCircleQuestion } from "react-icons/ci";
 import { FaBackspace } from "react-icons/fa";
 
-const WORD_LIST_DATA = "/assets/allowed_guesses.txt";
+const WORD_LIST_DATA = "./assets/allowed_guesses.txt";
 
 const COLORS = {
   GREEN: "green",
