@@ -1,5 +1,3 @@
----
-
 # Wordle Clone  
 
 ![wordle-clone-showcase](https://github.com/user-attachments/assets/214b5cd5-125a-406c-8510-e0d5caad764b)
