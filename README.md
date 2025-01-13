@@ -1,40 +1,43 @@
-# Wordle Clone  
+---
+
+# **Wordle Clone**
 
 ![wordle-clone-showcase](https://github.com/user-attachments/assets/214b5cd5-125a-406c-8510-e0d5caad764b)
 
 [Play it now!](https://sereneprince.github.io/Wordle/)
 
-A **Wordle** clone built with **React**, **JavaScript**, and **Tailwind CSS**, replicating the popular word-guessing game. Players have six attempts to guess a hidden 5-letter word, with color-coded feedback to guide them. This version was built using a single component as a personal challenge.
+A **Wordle** clone built using **React**, **JavaScript**, and **Tailwind CSS**. This game challenges players to guess a hidden 5-letter word within six attempts, providing real-time color-coded feedback to help guide the guesses. Built as a personal challenge, this version uses a single component for a cleaner, more efficient codebase.
 
 ---
 
-## ✨ Features
+## ✨ **Features**
 
-- **Responsive Design**: Optimized for both desktop and mobile devices.
-- **Interactive Feedback**: Real-time color-coded hints for each guess.
-  - 🟩 **Green**: Correct letter in the correct position.
-  - 🟨 **Yellow**: Correct letter in the wrong position.
-  - ⬜ **Gray**: Incorrect letter.
-- **Game Restart**: Start a new game by refreshing the page.
-
----
-
-## 🛠️ Technologies
-
-- **React**: For building the dynamic user interface.
-- **JavaScript**: Core language for game logic.
-- **Vite**: A fast, modern build tool for development and production.
-- **CSS**: For clean, responsive styling.
+- **Responsive Design**: Optimized for both desktop and mobile devices for seamless gameplay across platforms.  
+- **Interactive Feedback**: Color-coded hints for each guess:
+  - 🟩 **Green**: Correct letter in the correct position.  
+  - 🟨 **Yellow**: Correct letter in the wrong position.  
+  - ⬜ **Gray**: Incorrect letter.  
+- **Game Restart**: Refresh the page to start a new game.
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ **Technologies Used**
 
-### Prerequisites
+- **React**: To build the dynamic user interface.  
+- **JavaScript**: For the game logic and functionality.  
+- **Vite**: A modern, fast build tool for smooth development and production setups.  
+- **Tailwind CSS**: For clean, responsive, and customizable styling.
 
-- Node.js and npm installed on your machine.
+---
 
-### Setup
+## 🚀 **Getting Started**
+
+### **Prerequisites**
+
+Make sure you have the following installed on your machine:
+- **Node.js** and **npm**
+
+### **Setup**
 
 1. Clone the repository:
    ```bash
@@ -49,24 +52,24 @@ A **Wordle** clone built with **React**, **JavaScript**, and **Tailwind CSS**, r
    ```bash
    npm run dev
    ```
-4. Open your browser and visit `http://localhost:[PORT]` to play.
+4. Open your browser and visit `http://localhost:[PORT]` to start playing.
 
 ---
 
-## 🎮 How to Play
+## 🎮 **How to Play**
 
-1. Enter a 5-letter word.
-2. Feedback is given for each guess:
-   - 🟩 Green: Correct letter, correct position.
-   - 🟨 Yellow: Correct letter, wrong position.
-   - ⬜ Gray: Incorrect letter.
-3. Guess the word within six attempts.
-4. Refresh the page to play again!
+1. Enter a 5-letter word and submit your guess.  
+2. Receive color-coded feedback for each guess:
+   - 🟩 **Green**: Correct letter, correct position.
+   - 🟨 **Yellow**: Correct letter, wrong position.
+   - ⬜ **Gray**: Incorrect letter.  
+3. Make guesses within six attempts to uncover the hidden word.
+4. Refresh the page to start a new game.
 
 ---
 
-## 🤝 Contribution
+## 🤝 **Contribution**
 
-Contributions are welcome! Fork the repository, create a branch for your feature or fix, and submit a pull request. Suggestions and questions can be added to the Issues tab.
+Contributions are welcome! Feel free to fork the repository, create a branch for your feature or fix, and submit a pull request. For suggestions, issues, or questions, use the Issues tab.
 
 ---
