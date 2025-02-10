@@ -1,75 +1,72 @@
----
+# 🟩 **Wordle Clone**  
 
-# **Wordle Clone**
+![Wordle Clone Showcase](https://github.com/user-attachments/assets/214b5cd5-125a-406c-8510-e0d5caad764b)  
 
-![wordle-clone-showcase](https://github.com/user-attachments/assets/214b5cd5-125a-406c-8510-e0d5caad764b)
+🎮 **Play Now:** [**Wordle Clone**](https://sereneprince.github.io/Wordle/)  
 
-[Play it now!](https://sereneprince.github.io/Wordle/)
-
-A **Wordle** clone built using **React**, **JavaScript**, and **Tailwind CSS**. This game challenges players to guess a hidden 5-letter word within six attempts, providing real-time color-coded feedback to help guide the guesses. Built as a personal challenge, this version uses a single component for a cleaner, more efficient codebase.
+A clean and efficient **Wordle** clone built with **React**, **JavaScript**, and **Tailwind CSS**. Guess the **hidden 5-letter word** within six attempts, with real-time **color-coded feedback** to guide you. Built as a challenge to optimize visuals and streamline the codebase using a single component.  
 
 ---
 
-## ✨ **Features**
+## ✨ **Features**  
 
-- **Responsive Design**: Optimized for both desktop and mobile devices for seamless gameplay across platforms.  
-- **Interactive Feedback**: Color-coded hints for each guess:
-  - 🟩 **Green**: Correct letter in the correct position.  
-  - 🟨 **Yellow**: Correct letter in the wrong position.  
-  - ⬜ **Gray**: Incorrect letter.  
-- **Game Restart**: Refresh the page to start a new game.
-
----
-
-## 🛠️ **Technologies Used**
-
-- **React**: To build the dynamic user interface.  
-- **JavaScript**: For the game logic and functionality.  
-- **Vite**: A modern, fast build tool for smooth development and production setups.  
-- **Tailwind CSS**: For clean, responsive, and customizable styling.
+- **Responsive Design** – Optimized for desktop and mobile gameplay.  
+- **Color-Coded Feedback** – Helps guide your guesses:
+  - 🟩 **Green** – Correct letter, correct position.  
+  - 🟨 **Yellow** – Correct letter, wrong position.  
+  - ⬜ **Gray** – Incorrect letter.  
+- **Simple Restart** – Refresh the page to start a new game.  
 
 ---
 
-## 🚀 **Getting Started**
+## 🛠️ **Tech Stack**  
 
-### **Prerequisites**
+- **React** – Dynamic UI rendering.  
+- **JavaScript** – Game logic and interactions.  
+- **Vite** – Fast and efficient build setup.  
+- **Tailwind CSS** – Clean and responsive styling.  
 
-Make sure you have the following installed on your machine:
-- **Node.js** and **npm**
+---
 
-### **Setup**
+## 🚀 **Getting Started**  
 
-1. Clone the repository:
+### **Prerequisites**  
+Ensure you have the following installed:  
+- **Node.js** (includes npm)  
+
+### **Setup**  
+
+1. Clone the repository:  
    ```bash
    git clone https://github.com/SerenePrince/Wordle.git
-   cd wordle-clone
+   cd Wordle
    ```
-2. Install dependencies:
+2. Install dependencies:  
    ```bash
    npm install
    ```
-3. Run the development server:
+3. Start the development server:  
    ```bash
    npm run dev
    ```
-4. Open your browser and visit `http://localhost:[PORT]` to start playing.
+4. Open `http://localhost:5173` in your browser to start playing.  
 
 ---
 
-## 🎮 **How to Play**
+## 🎮 **How to Play**  
 
-1. Enter a 5-letter word and submit your guess.  
-2. Receive color-coded feedback for each guess:
-   - 🟩 **Green**: Correct letter, correct position.
-   - 🟨 **Yellow**: Correct letter, wrong position.
-   - ⬜ **Gray**: Incorrect letter.  
-3. Make guesses within six attempts to uncover the hidden word.
-4. Refresh the page to start a new game.
+1. Enter a **5-letter word** and submit your guess.  
+2. Check the **color-coded feedback** to refine your next guess.  
+3. Solve the word **within six attempts** to win.  
+4. **Refresh the page** to start a new game.  
 
 ---
 
-## 🤝 **Contribution**
+## 🤝 **Contributing**  
 
-Contributions are welcome! Feel free to fork the repository, create a branch for your feature or fix, and submit a pull request. For suggestions, issues, or questions, use the Issues tab.
+Contributions are welcome! Feel free to:  
+- **Fork** the repository  
+- **Create a feature branch**  
+- **Submit a pull request**  
 
----
+For issues or suggestions, use the **Issues** tab.  
